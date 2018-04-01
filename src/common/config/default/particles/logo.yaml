@@ -1,5 +1,6 @@
 enabled: '1'
 url: ''
 image: ''
-text: 'Sienna'
-class: g-logo
+svg: ''
+text: 'Creative'
+class: 'g-logo g-logo-creative'

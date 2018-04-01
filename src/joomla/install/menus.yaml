@@ -1,9 +1,9 @@
-sienna-theme:
-  title: 'Sienna Theme'
-  description: 'Sample menu for Sienna theme.'
+creative-theme:
+  title: 'Creative Theme'
+  description: 'Sample menu for Creative theme.'
 
   items:
-    sienna:
+    creative:
       title: 'Home'
-      outline: home_-_particles
+      outline: home
       home: 1

@@ -1,9 +1,11 @@
 enabled: '1'
 date:
-  start: '2007'
+  start: '2017'
   end: now
-owner: 'RocketTheme LLC. Photos by Pexels, Tookapic and Unsplash.'
+owner: 'Gantry Framework'
 link: ''
 target: _blank
+additional:
+  text: 'Developed by Dazzle Software exclusively<br />for Gantry 5.'
 css:
   class: ''

@@ -1,6 +1,6 @@
 preset1:
   image: 'gantry-admin://images/preset1.png'
-  description: 'Preset 1'
+  description: GANTRY5_PLATFORM_PRESET1
   colors:
     - '#58bd91'
     - '#ffffff'
@@ -73,7 +73,7 @@ preset1:
       mobile-menu-breakpoint: 48rem
 preset2:
   image: 'gantry-admin://images/preset2.png'
-  description: 'Preset 2'
+  description: GANTRY5_PLATFORM_PRESET2
   colors:
     - '#0088f3'
     - '#ffffff'
@@ -146,7 +146,7 @@ preset2:
       mobile-menu-breakpoint: 48rem
 preset3:
   image: 'gantry-admin://images/preset3.png'
-  description: 'Preset 3'
+  description: GANTRY5_PLATFORM_PRESET3
   colors:
     - '#855cb7'
     - '#ffffff'
@@ -219,7 +219,7 @@ preset3:
       mobile-menu-breakpoint: 48rem
 preset4:
   image: 'gantry-admin://images/preset4.png'
-  description: 'Preset 4'
+  description: GANTRY5_PLATFORM_PRESET4
   colors:
     - '#d72714'
     - '#ffffff'
@@ -293,7 +293,7 @@ preset4:
 
 preset5:
   image: 'gantry-admin://images/preset5.png'
-  description: 'Preset 5'
+  description: GANTRY5_PLATFORM_PRESET5
   colors:
     - '#ebaa10'
     - '#ffffff'
@@ -366,7 +366,7 @@ preset5:
       mobile-menu-breakpoint: 48rem
 preset6:
   image: 'gantry-admin://images/preset6.png'
-  description: 'Preset 6'
+  description: GANTRY5_PLATFORM_PRESET6
   colors:
     - '#feb49f'
     - '#ffffff'

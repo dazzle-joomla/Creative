@@ -1,7 +1,7 @@
 doctype: html
 attribs:
   id: ''
-  class: gantry
+  class: 'gantry g-creative-style'
   extra: {  }
 layout:
   sections: '0'

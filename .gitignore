@@ -1,0 +1,55 @@
+# IDE & System Related Files #
+.buildpath
+.editorconfig
+.project
+.settings
+.DS_Store
+.idea
+.vscode
+*.lnk
+
+# README.md Related Files
+!/vendor/README.md
+
+# Composer Related Files #
+vendor/
+composer.phar
+composer.lock
+
+# Test Related Files #
+/phpunit.xml
+
+# Grunt #
+node_modules/
+
+# Removed in RC #
+
+# CSS map files #
+.map
+
+# phpDocumentor Logs #
+phpdoc-*
+
+# Patch Tester #
+
+# Install from Web plugin Interface #
+
+# Languages #
+
+# OSX #
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows #
+Thumbs.db
+Desktop.ini
+
+# Never ignore #
+# Only apply this rule to the main repository's gitignore files
+!/.gitignore
+!/build/.gitignore
+
+# Application Folders Ignore System Generated Files #
+Helium
+Callisto

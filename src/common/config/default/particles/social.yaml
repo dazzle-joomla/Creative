@@ -7,12 +7,12 @@ items:
   -
     icon: 'fa fa-twitter fa-fw'
     text: ''
-    link: 'http://www.twitter.com/rockettheme'
+    link: '#'
     name: Twitter
   -
     icon: 'fa fa-youtube-play fa-fw'
     text: ''
-    link: 'http://www.youtube.com/rockettheme'
+    link: '#'
     name: YouTube
   -
     icon: 'fa fa-instagram fa-fw'
