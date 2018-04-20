@@ -1,6 +1,6 @@
 %g-button {
     display: inline-block;
-    font-family: get-font-family($font-family-promo);
+    font-family: get-font-family($font-family-default);
     font-weight: $font-weight-ultrabold;
     font-style: italic;
     @include linear-gradient(-45deg, $accent-color-2 55%, $accent-color-1 55%);

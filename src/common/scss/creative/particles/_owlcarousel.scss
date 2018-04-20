@@ -431,7 +431,7 @@
                 padding-bottom: 1.2rem;
 
                 strong {
-                    font-family: get-font-family($font-family-subpromo);
+                    font-family: get-font-family($font-family-default);
                     text-transform: lowercase;
                     font-style: italic;
                     font-weight: $font-weight-regular;
@@ -690,7 +690,7 @@
     padding: $content-padding + 2 0;
     .g-title {
         text-align: center;
-        font-family: get-font-family($font-family-promo);
+        font-family: get-font-family($font-family-default);
         font-size: $core-font-size - 0.34;
         font-weight: $font-weight-bold;
         opacity: 0.5;
@@ -699,7 +699,7 @@
     }
 
     .g-owlcarousel-item-desc {
-        font-family: get-font-family($font-family-subpromo);
+        font-family: get-font-family($font-family-default);
         font-weight: $font-weight-regular;
         font-style: italic;
 
@@ -977,7 +977,7 @@
     display: block;
     .g-title {
         color: $base-text-color;
-        font-family: get-font-family($font-family-promo);
+        font-family: get-font-family($font-family-default);
         font-weight: $font-weight-bold;
         font-size: $core-font-size;
         text-transform: uppercase;

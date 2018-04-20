@@ -130,13 +130,13 @@
 
     .g-pricingtable-period {
         font-size: $core-font-size + 0.5;
-        font-family: get-font-family($font-family-promo);
+        font-family: get-font-family($font-family-default);
         font-weight: $font-weight-light;
         line-height: $core-line-height - 1;
     }
 
     .g-pricingtable-desc {
-        font-family: get-font-family($font-family-subpromo);
+        font-family: get-font-family($font-family-default);
         font-size: $core-font-size - 0.1;
         padding: $content-padding 0;
     }

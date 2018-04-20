@@ -234,7 +234,7 @@
 
         a {
             color: $base-text-color;
-            font-family: get-font-family($font-family-subpromo);
+            font-family: get-font-family($font-family-default);
             font-style: italic;
             font-weight: $font-weight-regular;
             font-size: $core-font-size + 0.5;

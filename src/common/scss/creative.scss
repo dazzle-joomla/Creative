@@ -2,7 +2,7 @@
 
 @import "dependencies";
 
-//-------------------------------------------//
+//-------------------------------------------
 
 
 // THEME STYLING
@@ -37,11 +37,10 @@
 // Forms
 @import "creative/styles/forms";
 
-// Style Specific Styling
+// Demo Styling
 @import "creative/styles/creative-style";
 
-//-------------------------------------------//
-
+//-------------------------------------------
 
 // SECTIONS STYLING
 
@@ -96,10 +95,9 @@
 // OffCanvas
 @import "creative/sections/offcanvas";
 
-//-------------------------------------------//
+//-------------------------------------------
 
-
-// Layouts
+// LAYOUTS STYLING
 
 // Error
 @import "creative/layouts/error";
@@ -110,10 +108,9 @@
 // Offline
 @import "creative/layouts/offline";
 
-//-------------------------------------------//
+//-------------------------------------------
 
-
-// PARTICLES
+// PARTICLES STYLING
 
 // Social
 @import "creative/particles/social";
@@ -173,10 +170,10 @@
 @import "creative/particles/contentarray";
 
 
-//-------------------------------------------//
+//-------------------------------------------
 
 
 // BREAKPOINTS
 @import "nucleus/theme/breakpoints/base";
 
-//-------------------------------------------//
+//-------------------------------------------

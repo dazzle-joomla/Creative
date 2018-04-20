@@ -1,11 +1,15 @@
 <?php
 /**
- * @package   Gantry 5 Theme
- * @author    RocketTheme http://www.rockettheme.com
- * @copyright Copyright (C) 2007 - 2017 RocketTheme, LLC
- * @license   GNU/GPLv2 and later
+ * Gantry 5 Template.
  *
- * http://www.gnu.org/licenses/gpl-2.0.html
+ * PHP version 7
+ *
+ * @package    Creative
+ * @author     Stephen Bishop <support@dazzlesoftware.org>
+ * @copyright  Copyright (c) 2017 - 2018 Dazzle Software, LLC. (https://www.dazzlesoftware.org)
+ * @license    https://opensource.org/licenses/GPL-3.0 GNU General Public License, version 3
+ * @link       https://github.com/dazzle-gantry/creative
+ * @since      1.0
  */
 
 defined('_JEXEC') or die;

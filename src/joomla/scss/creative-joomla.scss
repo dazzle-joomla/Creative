@@ -10,6 +10,9 @@
 @import "nucleus/functions/base";
 @import "nucleus/mixins/base";
 
+// Load Optional Nucleus Assets
+@import "nucleus/theme/alerts";
+
 // Load Theme Variable Driven Nucleus Elements
 @import "joomla/theme/base";
 
@@ -19,14 +22,13 @@
 //-------------------------------------------
 
 // JOOMLA TEMPLATE SPECIFIC
-@import "creative-joomla/core";
-@import "creative-joomla/typography";
-@import "creative-joomla/forms";
-@import "creative-joomla/tabs";
-@import "creative-joomla/utilities";
-@import "creative-joomla/popupmodule";
+@import "creative-joomla/styles/core";
+@import "creative-joomla/styles/typography";
+@import "creative-joomla/styles/forms";
+@import "creative-joomla/styles/tabs";
+@import "creative-joomla/styles/utilities";
 
-// JOOMLA TEMPLATE SPECIFIC SECTIONS STYLING
+// JOOMLA TEMPLATE SPECIFIC COMPONENTS STYLING
 
 // Showcase
 @import "creative-joomla/sections/showcase";
@@ -37,6 +39,9 @@
 
 // ROCKETTHEME EXTENSIONS
 @import "creative-joomla/rokajaxsearch";
+
+// JOOMLA TEMPLATE SPECIFIC PARTICLES STYLING
+@import "creative-joomla/particles/popupmodule";
 
 //-------------------------------------------
 

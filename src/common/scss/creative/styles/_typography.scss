@@ -1,9 +1,9 @@
 // Font Import
 @include import-font($font-family-default);
 @include import-font($font-family-title);
-@include import-font($font-family-promo);
-@include import-font($font-family-subpromo);
-@include import-font($font-family-weather);
+@include import-font($font-family-default);
+@include import-font($font-family-default);
+@include import-font($font-family-default);
 
 body {
     font-family: get-font-family($font-family-default);
@@ -124,7 +124,7 @@ hr {
 // Lead Content
 .g-lead {
     position: relative;
-    font-family: get-font-family($font-family-subpromo);
+    font-family: get-font-family($font-family-default);
     font-weight: $font-weight-regular;
     font-style: italic;
     font-size: $core-font-size + 0.5;

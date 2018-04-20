@@ -39,7 +39,7 @@
         opacity: 0.5;
         .g-gridstatistic-item-separator {
             font-size: $core-font-size + 0.5;
-            font-family: get-font-family($font-family-promo);
+            font-family: get-font-family($font-family-default);
             font-weight: $font-weight-regular;
             vertical-align: middle;
             padding: 0 $content-margin;
@@ -48,7 +48,7 @@
 
     .g-gridstatistic-item-text2 {
         margin-top: $content-margin;
-        font-family: get-font-family($font-family-promo);
+        font-family: get-font-family($font-family-default);
         text-transform: capitalize;
         font-weight: $font-weight-bold;
         opacity: 0.5;

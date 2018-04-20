@@ -86,7 +86,7 @@ $css_multipliers: 2, 3;
 .g-sample-sitemap {
     line-height: $core-line-height + 0.2;
     font-size: $core-font-size + 0.1;
-    font-family: get-font-family($font-family-promo);
+    font-family: get-font-family($font-family-default);
 }
 
 // DatePicker
